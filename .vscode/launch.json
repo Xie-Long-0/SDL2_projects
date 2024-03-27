@@ -28,7 +28,7 @@
             "externalConsole": false,
             "MIMode": "gdb",
             // 修改本地GDB对应路径
-            "miDebuggerPath": "D:/Qt/Tools/mingw1120_64/bin/gdb.exe",
+            "miDebuggerPath": "gdb",
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",
